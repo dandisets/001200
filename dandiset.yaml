@@ -20,8 +20,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 19257968
-  numberOfFiles: 50
+  numberOfBytes: 21606720
+  numberOfFiles: 54
   numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
@@ -31,9 +31,9 @@ assetsSummary:
   variableMeasured:
   - Units
   - ElectrodeGroup
-citation: Gao, Huan; Ramachandran, Sandhya; He, Bin; Yu, Kai (2024) Neural Spiking
+citation: Gao, Huan; Ramachandran, Sandhya; Yu, Kai; He, Bin (2025) Neural Spiking
   Data in Rats Responding to Optogenetic Stimulation and Transcranial Focused Ultrasound
-  Stimulation in Neural Pathway (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001200/draft
+  Stimulation in Neural Pathway (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001200/draft
 contributor:
 - affiliation: []
   email: huangao@andrew.cmu.edu
@@ -48,12 +48,12 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - includeInCitation: true
-  name: He, Bin
+  name: Yu, Kai
   roleName:
   - dcite:Author
   schemaKey: Person
 - includeInCitation: true
-  name: Yu, Kai
+  name: He, Bin
   roleName:
   - dcite:Author
   schemaKey: Person
@@ -96,19 +96,16 @@ description: "In these recordings, we stimulate rats that were injected with AAV
 ethicsApproval: []
 id: DANDI:001200/draft
 identifier: DANDI:001200
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001200/versions/draft/assets/
 name: Neural Spiking Data in Rats Responding to Optogenetic Stimulation and Transcranial
   Focused Ultrasound Stimulation in Neural Pathway
-protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-studyTarget: []
 url: https://dandiarchive.org/dandiset/001200/draft
 version: draft
 wasGeneratedBy: []
